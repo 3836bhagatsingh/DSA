@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bddec297-40d1-41f4-80bf-54a7e529088d" name="Changes" comment="Code for Understanding memory concepts.">
-      <change afterPath="$PROJECT_DIR$/src/BASICS_OF_JAVA/Leapyear.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,6 +52,7 @@
     "Application.Sum_Numbers.executor": "Run",
     "Application.Table.executor": "Run",
     "Application.Understanding_Memory.executor": "Run",
+    "Application.User_choice.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
