@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bddec297-40d1-41f4-80bf-54a7e529088d" name="Changes" comment="Code for Understanding memory concepts.">
-      <change afterPath="$PROJECT_DIR$/src/BASICS_OF_JAVA/Table.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BASICS_OF_JAVA/Leapyear.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +49,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.CELSIUS_TO_FAHRENHEIT.executor": "Run",
+    "Application.Leapyear.executor": "Run",
     "Application.Sum_Numbers.executor": "Run",
+    "Application.Table.executor": "Run",
     "Application.Understanding_Memory.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
