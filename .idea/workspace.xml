@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bddec297-40d1-41f4-80bf-54a7e529088d" name="Changes" comment="Code for Understanding memory concepts.">
-      <change afterPath="$PROJECT_DIR$/src/BASICS_OF_JAVA/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BASICS_OF_JAVA/Palindrome_String.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
